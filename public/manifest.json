@@ -1,0 +1,19 @@
+{
+  "name": "Briefly - AI Transcription",
+  "short_name": "Briefly",
+  "description": "AI-Powered Transcription & Meeting Notes",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0c8eeb",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["productivity", "business"],
+  "lang": "en"
+}

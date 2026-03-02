@@ -14,7 +14,7 @@ export default function SignupPage() {
     e.preventDefault()
     setIsLoading(true)
     setTimeout(() => {
-      window.location.href = '/dashboard'
+      window.location.href = '/welcome'
     }, 1000)
   }
 
